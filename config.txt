@@ -1,0 +1,1 @@
+{ "Address":"mc.hypixel.net", "RemotePort":25565, “LocalPort":25565, "AllowInput":true, “DefaultEnableWhitelist”:false }
